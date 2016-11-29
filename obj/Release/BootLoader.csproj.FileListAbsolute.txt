@@ -1,0 +1,34 @@
+G:\Users\haisheng\Desktop\BootLoader\bin\Release\BootLoader.exe.config
+G:\Users\haisheng\Desktop\BootLoader\bin\Release\BootLoader.exe
+G:\Users\haisheng\Desktop\BootLoader\bin\Release\BootLoader.pdb
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\MainWindow.g.cs
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\App.g.cs
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\BootLoader_MarkupCompile.cache
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\BootLoader_MarkupCompile.lref
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\App.baml
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\MainWindow.baml
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\BootLoader.g.resources
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\BootLoader.MsgBox.resources
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\BootLoader.Properties.Resources.resources
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\BootLoader.csproj.GenerateResource.Cache
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\BootLoader.exe
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\BootLoader.pdb
+G:\Users\haisheng\Desktop\BootLoader\obj\Release\BootLoader.csprojResolveAssemblyReference.cache
+E:\My Work\BootLoader\bin\Release\BootLoader.exe.config
+E:\My Work\BootLoader\bin\Release\BootLoader.exe
+E:\My Work\BootLoader\bin\Release\BootLoader.pdb
+E:\My Work\BootLoader\obj\Release\BootLoader.csprojResolveAssemblyReference.cache
+E:\My Work\BootLoader\obj\Release\MainWindow.g.cs
+E:\My Work\BootLoader\obj\Release\App.g.cs
+E:\My Work\BootLoader\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\My Work\BootLoader\obj\Release\BootLoader_MarkupCompile.cache
+E:\My Work\BootLoader\obj\Release\BootLoader_MarkupCompile.lref
+E:\My Work\BootLoader\obj\Release\App.baml
+E:\My Work\BootLoader\obj\Release\MainWindow.baml
+E:\My Work\BootLoader\obj\Release\BootLoader.g.resources
+E:\My Work\BootLoader\obj\Release\BootLoader.MsgBox.resources
+E:\My Work\BootLoader\obj\Release\BootLoader.Properties.Resources.resources
+E:\My Work\BootLoader\obj\Release\BootLoader.csproj.GenerateResource.Cache
+E:\My Work\BootLoader\obj\Release\BootLoader.exe
+E:\My Work\BootLoader\obj\Release\BootLoader.pdb

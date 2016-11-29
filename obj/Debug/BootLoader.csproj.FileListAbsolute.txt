@@ -1,0 +1,34 @@
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\MainWindow.g.cs
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\App.g.cs
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\BootLoader_MarkupCompile.cache
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\BootLoader_MarkupCompile.lref
+G:\Users\haisheng\Desktop\BootLoader\bin\Debug\BootLoader.exe.config
+G:\Users\haisheng\Desktop\BootLoader\bin\Debug\BootLoader.exe
+G:\Users\haisheng\Desktop\BootLoader\bin\Debug\BootLoader.pdb
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\BootLoader.csprojResolveAssemblyReference.cache
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\App.baml
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\MainWindow.baml
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\BootLoader.g.resources
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\BootLoader.MsgBox.resources
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\BootLoader.Properties.Resources.resources
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\BootLoader.csproj.GenerateResource.Cache
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\BootLoader.exe
+G:\Users\haisheng\Desktop\BootLoader\obj\Debug\BootLoader.pdb
+E:\My Work\BootLoader\bin\Debug\BootLoader.exe.config
+E:\My Work\BootLoader\obj\Debug\BootLoader.exe
+E:\My Work\BootLoader\obj\Debug\BootLoader.pdb
+E:\My Work\BootLoader\bin\Debug\BootLoader.exe
+E:\My Work\BootLoader\bin\Debug\BootLoader.pdb
+E:\My Work\BootLoader\obj\Debug\BootLoader.csprojResolveAssemblyReference.cache
+E:\My Work\BootLoader\obj\Debug\MainWindow.g.cs
+E:\My Work\BootLoader\obj\Debug\App.g.cs
+E:\My Work\BootLoader\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\My Work\BootLoader\obj\Debug\BootLoader_MarkupCompile.cache
+E:\My Work\BootLoader\obj\Debug\BootLoader_MarkupCompile.lref
+E:\My Work\BootLoader\obj\Debug\App.baml
+E:\My Work\BootLoader\obj\Debug\MainWindow.baml
+E:\My Work\BootLoader\obj\Debug\BootLoader.g.resources
+E:\My Work\BootLoader\obj\Debug\BootLoader.MsgBox.resources
+E:\My Work\BootLoader\obj\Debug\BootLoader.Properties.Resources.resources
+E:\My Work\BootLoader\obj\Debug\BootLoader.csproj.GenerateResource.Cache

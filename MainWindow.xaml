@@ -1,0 +1,39 @@
+﻿<Window x:Class="BootLoader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:BootLoader"
+        Title="MainWindow" Height="400" Width="530" WindowStartupLocation="CenterScreen" WindowStyle="None" AllowsTransparency="True" MouseLeftButtonDown="Window_MouseLeftButtonDown" FontSize="16">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="SeaGreen" BorderThickness="1" Grid.RowSpan="3"></Border>
+        <Grid Grid.Row="0">
+            <Grid.Background>
+                <ImageBrush ImageSource="/BootLoader;component/Images/title.png" Stretch="None"/>
+            </Grid.Background>
+            <Label Content="Boot Loader" FontSize="14" Foreground="White"/>
+            <local:ImageButton x:Name="btn_close" HorizontalAlignment="Right" Width="25" Height="25" VerticalAlignment="Top"  ImgPath="/Images/关闭.png" Template="{StaticResource ImageButtonTemplate}" Click="btn_close_Click"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Label Content="通信串口" Height="40" Width="80" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,20,0,0"/>
+            <ComboBox Name="CBox_Port" Width="100" Height="40" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,20,0,0"></ComboBox>
+            <Label Content="波特率" Height="40" Width="80" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="210,20,0,0"/>
+            <ComboBox Name="CBox_Baud" Width="90" Height="40" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="265,20,0,0"></ComboBox>
+            <Label Content="间隔(ms)" Height="40" Width="80" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="370,20,0,0"/>
+            <ComboBox Name="CBox_Interval" Width="70" Height="40" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="440,20,0,0">
+            </ComboBox>
+            <Label Content="多条发送" Height="40" Width="80" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,80,0,0"/>
+            <ComboBox Name="CBox_Join" Width="100" Height="40" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,80,0,0"></ComboBox>
+            <Label Content="数据格式" Height="40" Width="80" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="210,80,0,0"/>
+            <ComboBox Name="CBox_Form" Height="40" VerticalAlignment="Top" Margin="280,80,20,0">
+            </ComboBox>
+            <local:ImageButton x:Name="Load_Button" Content="导入文件" Margin="20,140,20,0" VerticalAlignment="Top" Height="40" ImgPath="/Images/title.png" Template="{StaticResource ImageButtonTemplate}" Click="ImageButton_Click"/>
+            <ProgressBar Name="State_Progress" Height="20" Margin="20,200,20,0" VerticalAlignment="Top" Foreground="Red" Background="#FF6BB8AA" BorderBrush="Gray"/>
+            <ScrollViewer Margin="20,240,20,20" VerticalScrollBarVisibility="Auto">
+                <TextBlock Name="State_Text" Background="#FF6BB8AA" Foreground="White" Text="信息：" Padding="5" TextWrapping="Wrap"/>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Window>
